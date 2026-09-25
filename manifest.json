@@ -14,5 +14,13 @@
     "count": 62,
     "path": "lists/summer-2026.json",
     "url": "https://theoneandonlyewok.github.io/anime-season-lists/lists/summer-2026.json"
+  },
+  {
+    "season": "fall",
+    "year": 2026,
+    "file": "fall-2026.json",
+    "count": 68,
+    "path": "lists/fall-2026.json",
+    "url": "https://theoneandonlyewok.github.io/anime-season-lists/lists/fall-2026.json"
   }
 ]
